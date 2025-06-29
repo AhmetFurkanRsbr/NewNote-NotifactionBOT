@@ -85,8 +85,14 @@ cd NewNote-NotifactionBOT
 pip install -r requirements.txt
 
 # Edit user information for you / Knedine göre kullanıcı bilgilerini düzenle
-# username=obs_kullanici_adi
-# password=obs_sifresi
+# //newNotifaction.py line 16,17
+# -> username = "obs_kullanici_adi"
+# -> password = "obs_sifresi"
+
+# //mailSender.py line 6,7,8
+# -> sender_email = "your@gmail.com"   # sender / gönderen email
+# -> receiver_email = "yourmail@gmail.com" # receiver / alıcı email
+# -> password = "yourPassKey"              # 2 adımlı doğrulama aktifse 'uygulama şifresi' gerekir
 
 # Run / Çalıştır
 python newNoteNotifaction.py
