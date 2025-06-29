@@ -1,0 +1,62 @@
+{
+    "Atatürk İlkeleri ve İnkılâp Tarihi II": {},
+    "Bilgisayar Programlama": {},
+    "Web Teknolojileri": {
+        "AS 1": 90,
+        "Alan Çalışması 1": 94,
+        "DSS": null,
+        "BS": null
+    },
+    "Olasılık ve İstatistik": {},
+    "Ayrık Matematik": {},
+    "Elektroniğe Giriş": {
+        "AS 1": 75,
+        "Ö 1": 100,
+        "DSS": 100,
+        "BS": null
+    },
+    "Veri Yapıları": {},
+    "Programlama Dilleri Prensipleri": {
+        "AS 1": 78,
+        "Ö 1": 76,
+        "DSS": 72,
+        "BS": null
+    },
+    "Yazılım Mühendisliği": {
+        "AS 1": 95,
+        "Proje Hazırlama ve Sunma 1": 75,
+        "DSS": null,
+        "BS": null
+    },
+    "Bilgisayar Ağları": {},
+    "Sistem Analizi ve Tasarım": {
+        "AS 1": 96,
+        "Sunum / Seminer Hazırlama 1": 95,
+        "DSS": 95,
+        "BS": null
+    },
+    "Sistem Programlama": {
+        "AS 1": 90,
+        "Alan Çalışması 1": 92,
+        "DSS": null,
+        "BS": null
+    },
+    "Bilgisayar Organizasyonu": {},
+    "Fizik II": {
+        "AS 1": 30,
+        "DSS": 87,
+        "BS": null
+    },
+    "İş Sağlığı ve Güvenliği II": {},
+    "Kariyer Planlama": {},
+    "Mesleki İngilizce I": {},
+    "Matematik II": {},
+    "Türk Dili II": {},
+    "Yabancı Dil II (İngilizce)": {},
+    "İş Hayatında Yabancı Dil": {
+        "AS 1": 80,
+        "Ö 1": 100,
+        "DSS": null,
+        "BS": null
+    }
+}

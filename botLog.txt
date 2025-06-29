@@ -1,0 +1,67 @@
+2025-06-29 19:10:33,527 - INFO - 0. giriş denemesi yapılıyor.
+2025-06-29 19:10:59,027 - INFO - Giriş başarılı.
+2025-06-29 19:11:05,000 - INFO - 
+
+--------------------
+2025-06-29 19:11:05,000 - INFO - Yeni çalıştırma başlatıldı: 2025-06-29 19:11:05
+2025-06-29 19:12:41,433 - INFO - 0. giriş denemesi yapılıyor.
+2025-06-29 19:13:08,401 - INFO - Giriş başarılı.
+2025-06-29 19:13:14,433 - INFO - 
+
+--------------------
+2025-06-29 19:13:14,433 - INFO - Yeni çalıştırma başlatıldı: 2025-06-29 19:13:14
+2025-06-29 19:17:07,105 - INFO - 0. giriş denemesi yapılıyor.
+2025-06-29 19:17:28,987 - INFO - Giriş başarılı.
+2025-06-29 19:17:35,509 - INFO - 
+
+--------------------
+2025-06-29 19:17:35,510 - INFO - Yeni çalıştırma başlatıldı: 2025-06-29 19:17:35
+2025-06-29 19:24:25,203 - INFO - 0. giriş denemesi yapılıyor.
+2025-06-29 19:25:16,358 - INFO - 0. giriş denemesi yapılıyor.
+2025-06-29 19:25:40,315 - WARNING - Giriş başarısız.
+2025-06-29 19:25:40,316 - INFO - 1. giriş denemesi yapılıyor.
+2025-06-29 19:26:02,669 - WARNING - Giriş başarısız.
+2025-06-29 19:26:02,669 - INFO - 2. giriş denemesi yapılıyor.
+2025-06-29 19:26:24,646 - INFO - Giriş başarılı.
+2025-06-29 19:26:30,800 - INFO - 
+
+--------------------
+2025-06-29 19:26:30,800 - INFO - Yeni çalıştırma başlatıldı: 2025-06-29 19:26:30
+2025-06-29 19:27:03,422 - INFO - Mail gönderildi.
+2025-06-29 20:00:06,470 - INFO - 0. giriş denemesi yapılıyor.
+2025-06-29 20:00:29,402 - INFO - Giriş başarılı.
+2025-06-29 20:00:35,512 - INFO - 
+
+--------------------
+2025-06-29 20:00:35,512 - INFO - Yeni çalıştırma başlatıldı: 2025-06-29 20:00:35
+2025-06-29 20:01:06,844 - INFO - Mail gönderilmedi, notlarda değişiklik yok.
+2025-06-29 20:20:55,605 - INFO - 0. giriş denemesi yapılıyor.
+2025-06-29 20:21:17,317 - WARNING - Giriş başarısız.
+2025-06-29 20:21:17,318 - INFO - 1. giriş denemesi yapılıyor.
+2025-06-29 20:21:39,918 - INFO - Giriş başarılı.
+2025-06-29 20:21:45,910 - INFO - 
+
+--------------------
+2025-06-29 20:21:45,910 - INFO - Yeni çalıştırma başlatıldı: 2025-06-29 20:21:45
+2025-06-29 20:22:17,740 - INFO - Mail gönderildi.
+2025-06-29 21:00:04,905 - INFO - 0. giriş denemesi yapılıyor.
+2025-06-29 21:00:28,839 - INFO - Giriş başarılı.
+2025-06-29 21:00:34,883 - INFO - 
+
+--------------------
+2025-06-29 21:00:34,884 - INFO - Yeni çalıştırma başlatıldı: 2025-06-29 21:00:34
+2025-06-29 21:01:06,048 - INFO - Mail gönderilmedi, notlarda değişiklik yok.
+2025-06-29 22:00:16,351 - INFO - 0. giriş denemesi yapılıyor.
+2025-06-29 22:00:41,351 - INFO - Giriş başarılı.
+2025-06-29 22:00:47,903 - INFO - 
+
+--------------------
+2025-06-29 22:00:47,903 - INFO - Yeni çalıştırma başlatıldı: 2025-06-29 22:00:47
+2025-06-29 22:01:19,126 - INFO - Mail gönderilmedi, notlarda değişiklik yok.
+2025-06-29 23:00:04,573 - INFO - 0. giriş denemesi yapılıyor.
+2025-06-29 23:00:27,966 - INFO - Giriş başarılı.
+2025-06-29 23:00:34,201 - INFO - 
+
+--------------------
+2025-06-29 23:00:34,201 - INFO - Yeni çalıştırma başlatıldı: 2025-06-29 23:00:34
+2025-06-29 23:01:05,408 - INFO - Mail gönderilmedi, notlarda değişiklik yok.
