@@ -78,7 +78,7 @@ Captcha görselini Google Lens aracılığıyla çözmekteyim. Otomasyon Web Scr
 
 ```bash
 # Clone the project / Projeyi klonla
-git clone https://github.com/YourUsername/NewNote-NotifactionBOT.git
+git clone https://github.com/AhmetFurkanRsbr/NewNote-NotifactionBOT.git
 cd NewNote-NotifactionBOT
 
 # Install required packages / Gerekli paketleri yükle
